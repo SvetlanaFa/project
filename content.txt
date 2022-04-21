@@ -1,5 +1,1 @@
 <<<<<<< HEAD
-change
-=======
-new content
->>>>>>> da72168 (commit 1)
