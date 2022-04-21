@@ -1,5 +1,1 @@
-some content > content.txt
-
-git commit -am commit 2
-clear
-echo some content
+change
